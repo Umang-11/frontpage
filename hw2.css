@@ -1,0 +1,22 @@
+/* Reset Styles */
+html {
+    box-sizing: border-box;
+  }
+  *, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global Styles */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color:rgb(234, 146, 146) ;
+    color: hsl(0, 71%, 20%);
+  }
+  a {
+    color: #333;
+    text
+  
